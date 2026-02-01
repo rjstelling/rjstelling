@@ -6,3 +6,7 @@
 - 🔭 I’m currently working on [Suitcase](https://github.com/Impedimenta/Suitcase)
 - 📫 How to reach me: [@rjstelling](https://twitter.com/rjstelling), [richardstelling.com](https://richardstelling.com)
 - 😄 Pronouns: he/him
+
+---
+
+[Contact](https://agent-mailbox.richardstelling.com/#contact)
